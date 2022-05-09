@@ -4,4 +4,3 @@
 
 Repository owner: Simon Clarke
 Some more information
-Even more information
